@@ -15,7 +15,7 @@ please feel free to email via my user page contact form [here](https://codecanyo
 
 ## Purchase
 
-We're selling our products in Envato, you can purchase **Starbelly** at [here](https://codecanyon.net/user/archielite/portfolio).
+We're selling our products in Envato, you can purchase **Starbelly** at [here](https://1.envato.market/VmaNWa).
 
 ## Demo
 
@@ -28,7 +28,7 @@ Admin Area: [starbelly.archielite.com/admin](https://starbelly.archielite.com/ad
 - Fully Ecommerce features: product catalog, product attributes, product variations, product collections, discounts, shipping…
 - Sell Simple or Variable Products
 - Built-in Order Tracking page
-- Unlimted Categories & Sub-Categories
+- Unlimited Categories & Sub-Categories
 - Filter Products (eg by size, color, brands, categories, etc.)
 - Optional Wishlist & Compare
 - Product Deals
@@ -40,7 +40,7 @@ Admin Area: [starbelly.archielite.com/admin](https://starbelly.archielite.com/ad
 - Single checkout page
 - Support many payment methods: PayPal, Stripe, Paystack, Razorpay, Mollie and SSLCommerz.
 - Guest checkout supported.
-- Multivendor & Marketplace: easy to enable/disable multivendor features.
+- Multi-vendor & Marketplace: easy to enable/disable multi-vendor features.
 - Multi-language, unlimited languages support.
 - Multi-currency, unlimited currencies support.
 - Full RTL support.
@@ -57,4 +57,4 @@ Admin Area: [starbelly.archielite.com/admin](https://starbelly.archielite.com/ad
 
 ## Archi Elite Team
 
-Visit us at [https://archielite.com](archielite.com)
+Visit us at [archielite.com](https://archielite.com)
