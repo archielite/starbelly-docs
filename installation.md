@@ -34,14 +34,18 @@ On this project, we're using the latest Laravel version (currently 8.x). Please 
 It’s based on Laravel framework, the root folder for it is /public. You shouldn’t install it on a sub-folder, use sub-domain is better than sub-folder. (we won’t support to install our product on sub-folder).
 :::
 
-## Install via GUI
+### Video tutorial via GUI
+
+<iframe width="100%" height="360" src="https://www.youtube.com/embed/ok2QcYZkUqU" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen></iframe>
+
+### Install via GUI
 
 - Create database and extract source codes into your web root directory.
 - Go to `[your-domain.com]` to start installation.
 - Step by step to set up your database conntection, site information and administrator.
 - Login and set up your website on **Welcome Board**.
 
-## Install on hosting (manual)
+### Install on hosting (manual)
 
 ::: warning
 If you're a Laravel developer and you want to customize our source code in `platform/core` and `platform/packages`, you need to delete folder `/vendor` then run command `composer install` to reinstall vendor packages.
@@ -56,7 +60,7 @@ If you're a Laravel developer and you want to customize our source code in `plat
 - The default admin account is `admin` - `12345678`.
   ![Login](/images/admin-page.png)
 
-## Install locally or in VPS (manual)
+### Install locally or in VPS (manual)
 
 ::: warning
 If you're a Laravel developer and you want to customize our source code in `platform/core` and `platform/packages`, you need to delete folder `/vendor` then run command `composer install` to reinstall vendor packages.
